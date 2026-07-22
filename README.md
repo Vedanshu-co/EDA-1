@@ -10,7 +10,6 @@ This project walks through a typical EDA workflow on real-world e-commerce data:
 - Handling missing values in ratings and rating counts
 - Engineering new features from raw category strings
 - Aggregating and visualizing trends across product categories
-- Exploring the relationship between discounts and customer satisfaction
 
 ## 🗂️ Dataset
 
